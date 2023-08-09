@@ -1,15 +1,15 @@
 # Welcome Zk developers
 
-# Project Title
+# Project Title: ZKP ID 
 
 **Description**:  
-  - **Technology stack**: 
-  - **Status**: 
+  - **Technology stack**: Sismo
+  - **Status**: In Progress
   - **Links to production or demo instances**
 
 
 ## Dependencies
-  -
+  - 
   -
 
 ## Installation
